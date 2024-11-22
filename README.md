@@ -20,4 +20,4 @@ EDS is licensed under the GNU General Public License; for more information, read
 
 http://www.gnu.org/licenses/
 # Citation
-A related paper is submitted to the SCI journal (IF 7.5), Status: Minor Revision. 
+A related paper is published in the SCI journal, Expert Systems with Applications (IF 7.1), Available at: https://www.sciencedirect.com/science/article/pii/S0957417424023820 
